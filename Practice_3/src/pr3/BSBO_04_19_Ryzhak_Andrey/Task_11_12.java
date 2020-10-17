@@ -1,6 +1,5 @@
 package pr3.BSBO_04_19_Ryzhak_Andrey;
 
-
 import java.util.Scanner;
 
 public class Task_11_12
@@ -143,7 +142,5 @@ public class Task_11_12
         }
 
         System.out.print(encryptedMessage.toString());
-
-        input.close();
     }
 }

@@ -15,8 +15,6 @@ public class Task_9_10
         }
 
         WhichComesFirst(lines);
-
-        input.close();
     }
 
     static void WhichComesFirst(ArrayList<String> lines)

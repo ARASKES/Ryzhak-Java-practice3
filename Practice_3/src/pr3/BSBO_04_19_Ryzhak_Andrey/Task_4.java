@@ -1,7 +1,5 @@
 package pr3.BSBO_04_19_Ryzhak_Andrey;
 
-import java.util.Scanner;
-
 public class Task_4
 {
     public static void Execute()

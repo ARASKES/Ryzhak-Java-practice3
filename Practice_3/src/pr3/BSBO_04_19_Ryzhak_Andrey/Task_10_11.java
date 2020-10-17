@@ -78,8 +78,6 @@ public class Task_10_11
             int value = wordDictionary.get(key);
             System.out.printf("%s used %d time" + ((value == 1) ? "" : "s") + "\n", key, value);
         }
-
-        input.close();
     }
 
     static ArrayList<String> SortMapToList(Map<String, Integer> map)
